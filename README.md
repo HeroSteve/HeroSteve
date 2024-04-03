@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stefan</h1>
 <h3 align="center">A Developer, interested in learning about new Technologies</h3>
 
-- 🔭 I’m currently working on [An easy Flask Webserver to dump and show Potly Graphs](https://github.com/HeroSteve/webserver_plotly)
+- 🔭 I’m currently working on [An easy Flask Webserver to dump and show Plotly Graphs](https://github.com/HeroSteve/webserver_plotly)
 
 - 🌱 I’m currently learning **Python**
 
